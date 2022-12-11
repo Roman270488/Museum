@@ -1,0 +1,41 @@
+/* ********************* Forum ********************* */
+
+/* normal */
+@font-face {
+  font-family: Forum;
+  src: url(../assets/fonts/Forum/Forum-Regular.ttf);
+  font-weight: 400;
+}
+
+/* ********************* Roboto ********************* */
+
+/* thin */
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/Roboto/Roboto-Thin.ttf);
+  font-weight: 100;
+}
+/* light */
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/Roboto/Roboto-Light.ttf);
+  font-weight: 300;
+}
+/* normal */
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/Roboto/Roboto-Regular.ttf);
+  font-weight: 400;
+}
+/* medium */
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/Roboto/Roboto-Medium.ttf);
+  font-weight: 500;
+}
+/* bold */
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/Roboto/Roboto-Bold.ttf);
+  font-weight: 700;
+}
